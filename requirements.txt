@@ -1,0 +1,5 @@
+fitz
+sentence-transformers
+pinecone-client
+flask
+
